@@ -1,6 +1,6 @@
 # coding: utf-8
 # Decompiled By RANA RAJPOOT
-# Github : https://github.com/Usman132/RANA-RAJPOOT.git
+# Github : https://github.com/Usman132/RAJPooT78.git
 # uncompyle6 version 1.1.2
 # Original written By RANA RAJPOOT
 
